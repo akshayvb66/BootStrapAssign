@@ -1,0 +1,61 @@
+
+h1{
+    text-align: center;
+    color: rgb(141, 235, 206);
+}
+
+.logo{
+    width: 4rem;
+    height: 4rem;
+    margin-bottom: 0;
+    
+}
+footer{
+    margin-top: 3rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+card-text p{
+padding-top:2rem; 
+}
+.jumbotron{
+    text-align: center;
+}
+.nav-item{
+    padding-left: 3rem;
+    color: aqua;
+}
+.nav-link{
+    color: aqua;
+}
+navbar-brand p{
+    font-family: 'Charm', cursive;
+}
+.nav-item :hover{
+    background-color: orange;
+}
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container iframe{
+    left:0;
+    top:0;
+    margin-bottom: 0;
+    height:10rem;
+    width:10rem;
+    }
+    
+
+.navbar{
+width: 100%;
+
+padding-bottom: 0;
+
+}
+#carousel{
+padding-top: 5rem;
+}
